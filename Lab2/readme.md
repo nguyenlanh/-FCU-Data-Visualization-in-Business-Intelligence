@@ -1,14 +1,18 @@
 # Quiz
 
-### Create a Financial dashboard consists of 2 reports as below: 
+### Create a Financial dashboard consists of 2 reports as below.
 
-1. Total sales overview - A view of KPIs and for tracking the progress towards target goals.
+#### Question 1. 
 
-![Accessing databases](/Images/portal-select-slicer-header.png)
+Total sales overview - A view of KPIs and for tracking the progress towards target goals.
+
+![Accessing databases](/Images/quiz1.png)
  
 
-2. Performance for the last 12 months and a time-based analysis to show how sales and profit have evolved in the last 12 months.
+#### Question 2.
 
-![Accessing databases](/Images/portal-select-format-tab.png)
+Performance for the last 12 months and a time-based analysis to show how sales and profit have evolved in the last 12 months.
+
+![Accessing databases](/Images/quiz2.png)
  
 
