@@ -15,11 +15,10 @@ In this lab, you will use Microsoft Power BI service to view sales data for a fi
 In this hands-on lab, you will learn how to:
  
 - Connect Power BI to business data
-- Visualize business data in a dashboard
-- Add relationships to the visualizations you create
 - Enhance visualizations and reports with formatting
+- Visualize business data in a dashboard 
+- Build a Machine learning model
 - Publish and share Power BI content
-- Use Power BI Desktop to do advanced modeling
 
 <a name="Prerequisites"></a>
 ### Prerequisites ###
@@ -32,12 +31,11 @@ The following are required to complete this hands-on lab:
 
 This hands-on lab includes the following exercises:
 
-- [Lab 1: Get started with the Power BI service](./Lab1/readme.md) 
-- [Lab 2: Create a data visualization](#Lab2)
-- [Lab 3: Enhance your visualizations](#Lab3)
-- [Lab 4: Machine Learning integration](#Lab4)
-- [Lab 5: Build a Machine Learning model](#Lab5) 
-- [Lab 6: Publish and share content](#Lab6) 
+- [Lab 1: Get started with the Power BI service](./Lab1/readme.md)  
+- [Lab 2: Quiz](./Lab2/readme.md)    
+- Lab 3: Machine Learning integration
+- Lab 4: Build a Machine Learning model 
+- Lab 5: Publish and share content 
 
 
  
