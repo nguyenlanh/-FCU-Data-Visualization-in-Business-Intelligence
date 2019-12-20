@@ -1,8 +1,6 @@
 <a name="HOLTitle"></a>
 # [FCU] Data Visualization in Business Intelligence #
- 
-In this lab, you will use [Microsoft Power BI](https://powerbi.microsoft.com/en-us/mobile/)  service to view sales data and create reports and dashboards containing visualizations of that data. You can you use **Automated Machine Learning** to create and apply a binary prediction model in Power BI. Beside that, you will learn the basics of report creation and also learn various ways to share those reports with others.
-
+  
 <a name="Objectives"></a>
 ### Objectives ###
 
