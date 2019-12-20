@@ -28,7 +28,7 @@ The following are required to complete this hands-on lab:
 - An active Microsoft Power BI subscription or [sign up for a free trial](https://app.powerbi.com/signupredirect?pbi_source=web) 
  
 <a name="Exercises"></a>
-## Exercises ##
+## Lab ##
 
 This hands-on lab includes the following exercises:
 
