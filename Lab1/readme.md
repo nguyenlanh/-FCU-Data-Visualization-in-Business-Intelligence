@@ -19,7 +19,7 @@ In this tutorial, you complete the following steps:
 ### Step 1: Get data
 Often when you want to create a Power BI report, you start in Power BI Desktop. This time, we're going to start from scratch creating a report in the Power BI service.
 
-In this lab, we get data from a CSV file. [Download the Financial Sample CSV file.](Financial%20Sample.xlsx)
+In this lab, we get data from a CSV file. [Download the Financial Sample CSV file.](/Dataset/FinancialSample.csv)
 
 1. Sign in to Power BI. Power BI opens in  your browser. Select **Get data** at the bottom of the nav pane. The **Get Data** page opens.
 
@@ -66,11 +66,9 @@ Power BI analyzes the data and creates a visualization. If you selected **Date**
 
 ![Accessing databases](/Images/power-bi-service-select-line-chart.png)
 
-3. Enhance your visualizations
+3. Click the Format icon in the **Visualizations** panel. Then expand the **Data colors** panel and use the color picker adjacent to **Default color** to set the default color to purple.
 
 ![Accessing databases](/Images/enhance-visualization.png)
-
-
 
 
 4. This chart looks interesting, so let's pin it to a dashboard. Hover over the visualization and select the pin icon. When you pin this visualization, it's stored on your dashboard and kept up-to-date so you can track the latest value at a glance.

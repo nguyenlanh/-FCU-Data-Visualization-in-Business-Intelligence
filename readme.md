@@ -8,9 +8,8 @@ In this hands-on lab, you will learn how to:
  
 - Connect Power BI to business data
 - Enhance visualizations and reports with formatting
-- Visualize business data in a dashboard 
-- Build a Machine learning model
-- Publish and share Power BI content
+- Visualize business data in a dashboard  
+- Understand Power BI Data Modeling with DAX
 
 <a name="Prerequisites"></a>
 ### Prerequisites ###
@@ -24,10 +23,8 @@ The following are required to complete this hands-on lab:
 This hands-on lab includes the following exercises:
 
 - [Lab 1: Get started with the Power BI service](./Lab1/readme.md)  
-- [Lab 2: Quiz](./Lab2/readme.md)    
-- Lab 3: Machine Learning integration
-- Lab 4: Build a Machine Learning model 
-- Lab 5: Publish and share content 
+- [Lab 2: Quiz 1](./Lab2/readme.md)    
+- [Lab 3: Create your own measures in Power BI Desktop](./Lab3/readme.md)
 
 
  
