@@ -4,7 +4,7 @@
 By using measures, you can create some of the most powerful data analysis solutions in Power BI Desktop. Measures help you by performing calculations on your data as you interact with your reports. This tutorial will guide you through understanding measures and creating your own basic measures in Power BI Desktop.
  
 - This tutorial is intended for Power BI users already familiar with using Power BI Desktop to create more advanced models. 
-- In this lab, we get data from a CSV file. [Download the Financial Sample CSV file.](/Dataset/FinancialSample.csv)
+- In this lab, we get data from a CSV file. [Download the Financial Sample CSV file.](/Dataset/FinancialSample_lab2.csv)
  
 
 1. Create new columns to a data table using a formula from another variable. In the **Add Columns** at the top of the nav pane, select the **Custom Columns** and add formula in the box description, the choose **OK**.

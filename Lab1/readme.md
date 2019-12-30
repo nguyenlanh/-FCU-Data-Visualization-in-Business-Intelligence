@@ -19,7 +19,7 @@ In this tutorial, you complete the following steps:
 ### Step 1: Get data
 Often when you want to create a Power BI report, you start in Power BI Desktop. This time, we're going to start from scratch creating a report in the Power BI service.
 
-In this lab, we get data from a CSV file. [Download the Financial Sample CSV file.](/Dataset/FinancialSample.csv)
+In this lab, we get data from a CSV file. [Download the Financial Sample CSV file.](/Dataset/FinancialSample_lab1.csv)
 
 1. Sign in to Power BI. Power BI opens in  your browser. Select **Get data** at the bottom of the nav pane. The **Get Data** page opens.
 
